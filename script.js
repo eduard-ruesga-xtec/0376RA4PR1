@@ -1,5 +1,5 @@
 //RA3Ex7 - Activitats ràpides DOM JS
-
+//canvis de la branca nova
 //1 - Selecció: Usa querySelector per canviar el color d'un <h1> quan la pàgina carregui.
 let h = document.querySelector("#titol-principal");
 console.log(h);
